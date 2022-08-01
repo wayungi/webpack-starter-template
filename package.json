@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wayungi/webpack-starter-template/issues"
   },
-  "homepage": "https://github.com/wayungi/webpack-starter-template#readme"
+  "homepage": "https://github.com/wayungi/webpack-starter-template#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
 }
