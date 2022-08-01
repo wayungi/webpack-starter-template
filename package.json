@@ -1,0 +1,19 @@
+{
+  "name": "webpack-starter-template",
+  "version": "1.0.0",
+  "description": "vanilla javascript webpack starter template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayungi/webpack-starter-template.git"
+  },
+  "author": "Francis Wayungi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wayungi/webpack-starter-template/issues"
+  },
+  "homepage": "https://github.com/wayungi/webpack-starter-template#readme"
+}
