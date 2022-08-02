@@ -2,7 +2,7 @@
   "name": "webpack-starter-template",
   "version": "1.0.0",
   "description": "vanilla javascript webpack starter template",
-  "main": "index.js",
+  "private": "true",
   "scripts": {
     "test": "jest"
   },
