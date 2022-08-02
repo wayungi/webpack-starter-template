@@ -4,7 +4,8 @@
   "description": "vanilla javascript webpack starter template",
   "private": "true",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
